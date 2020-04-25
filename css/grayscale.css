@@ -90,7 +90,7 @@
   height: auto;
   min-height: 35rem;
   padding: 15rem 0;
-  background: url("../img/Mount-everst.jpg");
+  background: url("../img/sunrise-in-utah.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: scroll;
@@ -104,8 +104,6 @@
   background: -webkit-linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0));
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
-
-}
 
 }
 
@@ -148,20 +146,20 @@
 }
 
 .btn-primary {
-  background-color: #64a19d;
+  background-color: #eef272;
 }
 
 .btn-primary:hover {
-  background-color: #4f837f;
+  background-color: #f2f5a4;
 }
 
 .btn-primary:focus {
-  background-color: #4f837f;
+  background-color: #f2f5a4;
   color: white;
 }
 
 .btn-primary:active {
-  background-color: #467370 !important;
+  background-color: #f2f5a4 !important;
 }
 
 .about-section {
